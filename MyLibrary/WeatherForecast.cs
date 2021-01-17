@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApp2
+namespace MyLibrary
 {
     public class WeatherForecast
     {
